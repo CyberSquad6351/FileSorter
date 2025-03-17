@@ -55,8 +55,7 @@ By using this tool, you agree to use it responsibly and ethically.
 - **Documents**: `.docx`, `.doc`, `.xlsx`, `.pptx`, `.pdf`, `.zip`, `.csv`, `.txt`, `.py`
 - **Others**: Files that don’t match the above categories
 
-## 📸 Screenshots
-*(Add screenshots here)*
+
 
 ## 🔗 Developer Info
 - **Developer**: Cyber_Squad6351
